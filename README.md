@@ -5,7 +5,7 @@ It uses a **Longest Common Subsequence (LCS)**-based line diffing algorithm to e
 
 # Instructions:
 1. Clone the repo:  
-`git clone`  
+`git clone https://github.com/jonathan-16bit/mave.git`  
 
 2. Compile all files:  
 `make`
